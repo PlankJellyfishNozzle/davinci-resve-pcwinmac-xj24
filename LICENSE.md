@@ -1,4 +1,4 @@
-# 
+# Custom DaVinci Resolve effects for Mac OS | Secure DaVinci Resolve effects for PC Windows. Featuring loop-library and reverb — optimized for maximum performance on every platform.
 
 
 
